@@ -8,4 +8,8 @@ def main(list1,n,k):
     Returns:
         list: return answer.
     """
-    return
+    list1 = ['a','d','e','q','i','r']
+    n = 0
+    k = 3
+    return list1[n:k]
+print(main(list1=1,n=1,k=1))
